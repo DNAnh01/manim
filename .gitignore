@@ -1,11 +1,11 @@
 # my
 .vscode
-/my-data
-/my-imgs
-/my-pi-creature-images
-/my-sounds
-/my-temp-storage
-/my-videos
+/my/data
+/my/imgs
+/my/pi-creature-images
+/my/sounds
+/my/temp-storage
+/my/videos
 question.md
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
